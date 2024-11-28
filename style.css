@@ -157,27 +157,27 @@ body {
 .date {
     flex: 1;
     padding: 10px;
-    font-size: 20px;
+    font-size: 30px;
     color: #678192;
 }
 
 .item {
     flex: 1;
     padding: 10px;
-    font-size: 20px;
+    font-size: 30px;
     color: #678192;
 }
 .score {
     flex: 1;
     padding: 10px;
-    font-size: 20px;
+    font-size: 30px;
     color: #678192;
 }
 
 .comment {
     flex: 1;
     padding: 10px;
-    font-size: 10px;
+    font-size: 20px;
     color: #678192;
 }
 
