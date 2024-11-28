@@ -122,6 +122,7 @@ body {
     padding: 10px;
     text-align: center;
     border-bottom: 2px solid #678192; /* 頂部的分隔線 */
+    font-size: 20px;
 }
 
 .record-table td {
