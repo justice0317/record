@@ -157,20 +157,20 @@ body {
 .date {
     flex: 1;
     padding: 10px;
-    font-size: 30px;
+    font-size: 25px;
     color: #678192;
 }
 
 .item {
     flex: 1;
     padding: 10px;
-    font-size: 30px;
+    font-size: 25px;
     color: #678192;
 }
 .score {
     flex: 1;
     padding: 10px;
-    font-size: 30px;
+    font-size: 25px;
     color: #678192;
 }
 
