@@ -109,7 +109,7 @@ body {
 .record-table {
     margin: 40px auto; /* 增加與標題的距離 */
     border-collapse: collapse;
-    width: 50%; /* 減小表格寬度 */
+    width: 80%; /* 減小表格寬度 */
     background-color: white;
     border-radius: 10px;
     overflow: hidden;
