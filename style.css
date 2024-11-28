@@ -174,13 +174,6 @@ body {
     color: #678192;
 }
 
-.comment_title {
-    flex: 1;
-    padding: 10px;
-    font-size: 25px;
-    color: #678192;
-}
-
 .comment {
     flex: 1;
     padding: 10px;
